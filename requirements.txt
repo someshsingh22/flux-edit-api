@@ -13,3 +13,5 @@ matplotlib
 onnxruntime
 torchvision
 timm
+fastapi
+uvicorn
